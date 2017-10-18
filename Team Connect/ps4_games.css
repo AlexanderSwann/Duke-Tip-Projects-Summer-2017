@@ -1,0 +1,19 @@
+.ps4_games_pics_list li {
+  list-style-type: none;
+}
+
+ .ps4_games_pics{
+    display: block;
+    margin: 30px auto;
+    width: 60%;
+    height: 60%;
+    -webkit-transition: width 1s;
+        transition: width 1s;
+}
+
+.ps4_games_pics:hover {
+
+    width:70%;
+    height:auto;
+
+}
