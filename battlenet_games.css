@@ -1,0 +1,19 @@
+.battlenet_games_pics_list li {
+  list-style-type: none;
+}
+
+ .battlenet_games_pics{
+    display: block;
+    margin: 30px auto;
+
+width: 50%;
+height: 50%;
+-webkit-transition: width 1s;
+    transition: width 1s;
+}
+.battlenet_games_pics:hover {
+
+    width:60%;
+    height:auto;
+
+}
